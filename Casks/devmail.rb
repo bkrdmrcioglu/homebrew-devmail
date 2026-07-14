@@ -1,6 +1,6 @@
 cask "devmail" do
-  version "0.1.0"
-  sha256 "f9ce6030d3e205e7ce937dcf2d3b5207de5d85eed13c92aa9f91d3a0e86d82dd"
+  version "0.2.0"
+  sha256 "f365b08483b4ed1033d5a14be3aa37523062ac73950d03b481da8d626b917efe"
 
   url "https://github.com/bkrdmrcioglu/devmail-site/releases/download/v#{version}/DevMail-#{version}.zip"
   name "DevMail"
